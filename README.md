@@ -34,17 +34,4 @@ Please do not use keyloggers without permissions
 
 
 
-\*Enregistre les touches normales et spéciales
-
-
-
-\*Compte le nombre de frappes clavier
-
-
-
-\*Détecte le mot "azerty"
-
-
-
-\*Sauvegarde les frappes dans "fichier.txt"
 
