@@ -12,11 +12,8 @@ Learning Python and Cybersecurity fundamentals through hands-on projects
 ### Objectives - Objectifs
 
 *Understand Keyboard event capture in Python
- Comprendre la capture des frappes clavier en Python
 *Practice file logging
- Pratiquer l'écriture dans un fichier
 *Learn basic GitHub workflow
- Apprendre le fonctionnement de base de GitHub
 
 ## Technologies
 -Python
